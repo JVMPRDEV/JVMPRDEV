@@ -12,6 +12,8 @@
 <a href="https://www.linkedin.com/in/jvmpr-dev/" target="_blank"><img src="https://img.shields.io/badge/-linkedin-%23E4405F?style=for-the-badge&logo=linkedin&logoColor=white&logoBackground=white"</a>
 </div> 
  
+![Contribution](https://activity-graph.herokuapp.com/graph?username=JVMPRDEV&theme=gotham&hide_border=true&area=true)
+ 
 ### Main skills:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![.NET6](https://img.shields.io/badge/-.NET6-0D1117?style=for-the-badge&logo=.NET&labelColor=0D1117)&nbsp;
