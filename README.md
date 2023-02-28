@@ -2,17 +2,16 @@
  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+João+Victor+Macedo+Passos+Rocha;I'm+22+years+old;I'm+from+Salvador,+Ba,+Brasil;I'm+Full+Stack+developer+at+SICOOB;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=JVMPRDEV&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="João Victor Macedo github stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=JVMPRDEV&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="João Victor Macedo Passos Rocha github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JVMPRDEV&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 </div>
+
+![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=JVMPRDEV&theme=gotham)
 
 <div align="center">  
 <a href="https://www.linkedin.com/in/jvmpr-dev/" target="_blank"><img src="https://img.shields.io/badge/-linkedin-%23E4405F?style=for-the-badge&logo=linkedin&logoColor=white&logoBackground=white"</a>
 </div> 
- 
-![Contribution](https://activity-graph.herokuapp.com/graph?username=JVMPRDEV&theme=gotham&hide_border=true&area=true)
  
 ### Main skills:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
