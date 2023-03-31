@@ -14,33 +14,31 @@
 </div> 
  
 ### Main skills:
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
+![React.js](https://img.shields.io/badge/-React-0D1117?style=for-the-badge&logo=react&labelColor=0D1117&textColor=0D1117)&nbsp;
+![Vue.js](https://img.shields.io/badge/-Vue-0D1117?style=for-the-badge&logo=vuejs&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-0D1117?style=for-the-badge&logo=typescript&labelColor=0D1117&textColor=0D1117)&nbsp;
-![React](https://img.shields.io/badge/-React-0D1117?style=for-the-badge&logo=react&labelColor=0D1117&textColor=0D1117)&nbsp;
-![.SQLServer](https://img.shields.io/badge/-SQLServer-0D1117?style=for-the-badge&logo=SQLServer&labelColor=0D1117)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
+![SQLServer](https://img.shields.io/badge/-SQLServer-0D1117?style=for-the-badge&logo=sql&labelColor=0D1117)&nbsp;
+![ASP Clássico](https://img.shields.io/badge/-ASP-0D1117?style=for-the-badge&logo=aspclassic&labelColor=0D1117)&nbsp;
 ![.NET6](https://img.shields.io/badge/-.NET6-0D1117?style=for-the-badge&logo=.NET&labelColor=0D1117)&nbsp;
 
 ### Tools:
 ![Figma](https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
+![TortoiseGit](https://img.shields.io/badge/-tortoiseGit-0D1117?style=for-the-badge&logo=tortoisegit&labelColor=0D1117)&nbsp;
+![Pivotal Tracker](https://img.shields.io/badge/-pivotalTracker-0D1117?style=for-the-badge&logo=pivotalTracker&logoColor=C8A2C8&labelColor=0D1117)&nbsp;
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-0D1117?style=for-the-badge&logo=visual-studio&logoColor=C8A2C8&labelColor=0D1117)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=0D1117&labelColor=0D1117)&nbsp;
 
 ### Other Knowledge:
 ![HTML5](https://img.shields.io/badge/-HTML5-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
-![styledComponents](https://img.shields.io/badge/-styledComponents-0D1117?style=for-the-badge&logo=styledComponents&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![CSS3](https://img.shields.io/badge/-CSS3-0D1117?style=for-the-badge&logo=css3&labelColor=0D1117)&nbsp;
+![StyledComponents](https://img.shields.io/badge/-styledComponents-0D1117?style=for-the-badge&logo=styledComponents&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![Stitches](https://img.shields.io/badge/-stitches-0D1117?style=for-the-badge&logo=stitches&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![Sass](https://img.shields.io/badge/-sass-0D1117?style=for-the-badge&logo=sass&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![Boostrap](https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)&nbsp;
 
-### See some projects in operation:
-- Website: https://rep-website-egator.vercel.app/
-- WebEcommerce: https://rep-web-ecommerce.vercel.app/about.html
-- Dashboard: https://rep-dashboard-egator.vercel.app/
-- Portfolio: https://rep-portfolio-bedimcode.vercel.app/#
-- LandingPageDio: https://rep-landing-dio.vercel.app/
-- CartãoRocket: https://explorer-lab-01-ecru-xi.vercel.app/
-- Login: https://rep-login-register.vercel.app/
-- Error: https://rep-error404.vercel.app/
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{JVMPRDEV}/count.svg" /></p> 
