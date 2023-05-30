@@ -9,13 +9,13 @@
 
 ### Main skills:
 ![React.js](https://img.shields.io/badge/-React-0D1117?style=for-the-badge&logo=react&labelColor=0D1117&textColor=0D1117)&nbsp;
-![Vue.js](https://img.shields.io/badge/-Vue-0D1117?style=for-the-badge&logo=vuejs&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-0D1117?style=for-the-badge&logo=typescript&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![SQLServer](https://img.shields.io/badge/-SQLServer-0D1117?style=for-the-badge&logo=sql&labelColor=0D1117)&nbsp;
-![ASP Clássico](https://img.shields.io/badge/-ASP-0D1117?style=for-the-badge&logo=aspclassic&labelColor=0D1117)&nbsp;
+![Classic ASP](https://img.shields.io/badge/-Classic_ASP-0D1117?style=for-the-badge&logo=classicasp&labelColor=0D1117)&nbsp;
 ![AJAX](https://img.shields.io/badge/-AJAX-0D1117?style=for-the-badge&logo=AJAX&labelColor=0D1117)&nbsp;
 ![.NET6](https://img.shields.io/badge/-.NET6-0D1117?style=for-the-badge&logo=NET6&labelColor=0D1117)&nbsp;
+![Vue.js](https://img.shields.io/badge/-Vue-0D1117?style=for-the-badge&logo=vuejs&labelColor=0D1117&textColor=0D1117)&nbsp;
 
 ### Tools:
 ![Figma](https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)&nbsp;
