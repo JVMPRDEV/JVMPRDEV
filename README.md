@@ -1,9 +1,9 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+João+Victor+Macedo+Passos+Rocha;I'm+22+years+old;I'm+from+Salvador,+Ba,+Brasil;I'm+Full+Stack+developer+at+SICOOB;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hello!+My+name+is+João+Rocha;I'm+from+Salvador,+Ba,+Brasil;I'm+Full+Stack+developer+at+Easy+Carros;Be+Welcome!+:%29)](https://git.io/typing-svg)
 <br><br>
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=JVMPRDEV&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="João Victor Macedo Passos Rocha github stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=JVMPRDEV&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="João Rocha github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JVMPRDEV&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 </div><br><br>
 
@@ -15,7 +15,7 @@
 ![SQLServer](https://img.shields.io/badge/-SQLServer-0D1117?style=for-the-badge&logo=sql&labelColor=0D1117)&nbsp;
 ![ASP Clássico](https://img.shields.io/badge/-ASP-0D1117?style=for-the-badge&logo=aspclassic&labelColor=0D1117)&nbsp;
 ![AJAX](https://img.shields.io/badge/-AJAX-0D1117?style=for-the-badge&logo=AJAX&labelColor=0D1117)&nbsp;
-![.NET6](https://img.shields.io/badge/-.NET6-0D1117?style=for-the-badge&logo=.NET&labelColor=0D1117)&nbsp;
+![.NET6](https://img.shields.io/badge/-.NET6-0D1117?style=for-the-badge&logo=NET6&labelColor=0D1117)&nbsp;
 
 ### Tools:
 ![Figma](https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)&nbsp;
