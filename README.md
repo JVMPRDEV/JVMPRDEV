@@ -1,18 +1,12 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+João+Victor+Macedo+Passos+Rocha;I'm+22+years+old;I'm+from+Salvador,+Ba,+Brasil;I'm+Full+Stack+developer+at+SICOOB;Be+Welcome!+:%29)](https://git.io/typing-svg)
-
+<br><br>
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=JVMPRDEV&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="João Victor Macedo Passos Rocha github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JVMPRDEV&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
-</div>
+</div><br><br>
 
-![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=JVMPRDEV&theme=gotham)
-
-<div align="center">  
-<a href="https://www.linkedin.com/in/jvmpr-dev/" target="_blank"><img src="https://img.shields.io/badge/-linkedin-%23E4405F?style=for-the-badge&logo=linkedin&logoColor=white&logoBackground=white"</a>
-</div> 
- 
 ### Main skills:
 ![React.js](https://img.shields.io/badge/-React-0D1117?style=for-the-badge&logo=react&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Vue.js](https://img.shields.io/badge/-Vue-0D1117?style=for-the-badge&logo=vuejs&labelColor=0D1117&textColor=0D1117)&nbsp;
@@ -20,6 +14,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![SQLServer](https://img.shields.io/badge/-SQLServer-0D1117?style=for-the-badge&logo=sql&labelColor=0D1117)&nbsp;
 ![ASP Clássico](https://img.shields.io/badge/-ASP-0D1117?style=for-the-badge&logo=aspclassic&labelColor=0D1117)&nbsp;
+![AJAX](https://img.shields.io/badge/-AJAX-0D1117?style=for-the-badge&logo=AJAX&labelColor=0D1117)&nbsp;
 ![.NET6](https://img.shields.io/badge/-.NET6-0D1117?style=for-the-badge&logo=.NET&labelColor=0D1117)&nbsp;
 
 ### Tools:
@@ -44,4 +39,8 @@
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{JVMPRDEV}/count.svg" /></p> 
 <br></div>
 
+<div align="center">  
+<a href="https://www.linkedin.com/in/jvmpr-dev/" target="_blank"><img src="https://img.shields.io/badge/-linkedin-%23E4405F?style=for-the-badge&logo=linkedin&logoColor=white&logoBackground=white"</a>
+</div> 
+ 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
