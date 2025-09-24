@@ -59,14 +59,21 @@
 ---
 
 ## 📜 Certifications  
-- Agentes de IA com N8N na Prática – Rocketseat (2025)  
-- REST API’s RESTful do 0 à Azure com ASP.NET 8 e 5 – Udemy (2025)  
-- OKRs: Da Missão à Ação – Qulture.Rocks (2025)  
-- White Belt Lean Six Sigma – Grupo Voitto (2024)  
-- Ignite Specialization in React – Rocketseat (2023)  
-- UI Design & Figma Workshop – Deploy Experience (2022)  
-- Front-End Week – DIO (2022)  
-- ASP .NET Core MVC (NET 6) – Udemy (2022)  
+- Agentes de IA com N8N na Prática – Rocketseat (2025)
+- REST API’s RESTful do 0 à Azure com ASP.NET 8 e 5 – Udemy (2025)
+- OKRs: Da Missão à Ação – Qulture.Rocks (2025)
+- Certificação White Belt em Lean Seis Sigma – Grupo Voitto (2024)
+- Ignite – Programa de Especialização em React – Rocketseat (2023)
+- Workshop de UI Design e Figma – Deploy Experience (2022)
+- Semana Front-End – DIO (2022)
+- Curso de ASP .NET Core MVC (NET 6) – Udemy (2022)
+- DEV Summit – IGTI (2021)
+- QA Week – Bee Lab Academy (2021)
+- Implementação de LGPD via Metodologia Ágil – Somaxi Group (2021)
+- Lei Geral de Proteção de Dados (LGPD) – Sicoob Universidade (2020)
+- Segurança e Privacidade em Computadores (Microsoft) – Softex (2019)
+- Redes Remotas de Computadores – Softex (2019)
+- Pacote Office (Word, PowerPoint, Excel, Access) – Unieducar (2019)
 
 ---
 
