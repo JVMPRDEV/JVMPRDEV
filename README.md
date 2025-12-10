@@ -4,18 +4,44 @@
 
 <br>
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=JVMPRDEV&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="João Rocha github stats" /> 
+<div align="center">
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=JVMPRDEV&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="João Rocha github stats" />
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JVMPRDEV&layout=compact&hide_border=true&title_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" />
+</div>
+
+<div align="center">
+  <img width="91%" src="https://github-readme-streak-stats.herokuapp.com/?user=JVMPRDEV&theme=dark&hide_border=true&background=0d1117&stroke=00bfbf&ring=00bfbf&fire=00bfbf&currStreakLabel=00bfbf" />
 </div>
 
 <br>
 
-## 👨‍💻 About Me  
-- 🎯 Multidisciplinary professional with experience in **software architecture, scalable APIs, automation, and database management**.  
-- 🚀 Currently part of the **Architecture Team at BRANEF**, supporting squads in high-complexity scenarios and strategic deliveries.  
-- 💡 Passionate about **automation, cloud, monitoring, and scalable systems**.  
-- 🌍 Remote-first professional, based in **Salvador, Brazil**.  
+### 📊 GitHub Activity Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JVMPRDEV&theme=react-dark&bg_color=0d1117&color=00bfbf&line=00bfbf&point=c9d1d9&area=true&hide_border=true" alt="GitHub Activity Graph" />
+</div>
+
+<br>
+
+## 👨‍💻 About Me
+
+I'm a **Senior Full Stack Developer** with a strong focus on building scalable, high-performance systems. Currently, I'm part of the **Software Architecture Team at BRANEF**, where I tackle complex technical challenges and drive strategic initiatives across multiple development squads.
+
+### 🎯 What I Do
+- 🏗️ **Software Architecture**: Design and implement scalable, maintainable systems following best practices (CQRS, DDD, Clean Architecture)
+- ⚡ **API Development**: Build robust REST APIs with .NET 6/8, optimized for high throughput and reliability
+- 🤖 **Automation & Integration**: Create intelligent workflows using n8n, Evolution API, and AI agents
+- ☁️ **Cloud & DevOps**: Deploy and monitor applications on AWS, DigitalOcean, and Google Cloud with Docker/Docker Compose
+- 📊 **Database Optimization**: Design efficient data models and queries for SQL Server, PostgreSQL, and Redis
+
+### 💡 Current Focus
+- Building AI-powered automation solutions
+- Microservices architecture and distributed systems
+- Performance optimization and monitoring with Datadog
+- Remote-first collaboration and agile methodologies
+
+### 🌍 Location
+Salvador, Bahia, Brazil 🇧🇷 | Remote-first professional  
 
 ---
 
@@ -69,27 +95,67 @@
 
 ---
 
-## 📜 Certifications  
-- Agentes de IA com N8N na Prática – Rocketseat (2025)  
-- REST API’s RESTful do 0 à Azure com ASP.NET 8 e 5 – Udemy (2025)  
-- OKRs: Da Missão à Ação – Qulture.Rocks (2025)  
-- Certificação White Belt em Lean Seis Sigma – Grupo Voitto (2024)  
-- Ignite – Programa de Especialização em React – Rocketseat (2023)  
-- Workshop de UI Design e Figma – Deploy Experience (2022)  
-- Semana Front-End – DIO (2022)  
-- Curso de ASP .NET Core MVC (NET 6) – Udemy (2022)  
-- DEV Summit – IGTI (2021)  
-- QA Week – Bee Lab Academy (2021)  
-- Implementação de LGPD via Metodologia Ágil – Somaxi Group (2021)  
-- Lei Geral de Proteção de Dados (LGPD) – Sicoob Universidade (2020)  
-- Segurança e Privacidade em Computadores (Microsoft) – Softex (2019)  
-- Redes Remotas de Computadores – Softex (2019)  
+## 📜 Certifications & Learning
+
+### 🎓 Recent Certifications (2023-2025)
+- **Agentes de IA com N8N na Prática** – Rocketseat (2025)
+- **REST API's RESTful do 0 à Azure com ASP.NET 8 e 5** – Udemy (2025)
+- **OKRs: Da Missão à Ação** – Qulture.Rocks (2025)
+- **Certificação White Belt em Lean Seis Sigma** – Grupo Voitto (2024)
+- **Ignite – Programa de Especialização em React** – Rocketseat (2023)
+
+### 📚 Additional Training (2019-2022)
+- Workshop de UI Design e Figma – Deploy Experience (2022)
+- Semana Front-End – DIO (2022)
+- Curso de ASP .NET Core MVC (NET 6) – Udemy (2022)
+- DEV Summit – IGTI (2021)
+- QA Week – Bee Lab Academy (2021)
+- Implementação de LGPD via Metodologia Ágil – Somaxi Group (2021)
+- Lei Geral de Proteção de Dados (LGPD) – Sicoob Universidade (2020)
+- Segurança e Privacidade em Computadores (Microsoft) – Softex (2019)
+- Redes Remotas de Computadores – Softex (2019)
 - Pacote Office – Unieducar (2019)
 
 ---
 
-<div align="center">  
-<a href="https://www.linkedin.com/in/jvmpr-dev/" target="_blank"><img src="https://img.shields.io/badge/-linkedin-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"</a>
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=JVMPRDEV&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies" />
+</div>
+
+---
+
+## 💼 Professional Highlights
+
+- 🏢 **Current Role**: Software Architecture Team @ BRANEF
+- 💻 **Experience**: 5+ years in software development and architecture
+- 🎯 **Specialization**: Full Stack Development, Cloud Architecture, Automation
+- 🌟 **Key Achievements**:
+  - Designed and implemented scalable microservices architectures
+  - Led automation initiatives reducing manual processes by 60%+
+  - Architected cloud-native solutions serving thousands of users
+  - Mentored development teams in best practices and modern architectures
+
+---
+
+## 📫 Contact & Social Media
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/jvmpr-dev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://github.com/JVMPRDEV" target="_blank"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=JVMPRDEV&color=00bfbf&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/JVMPRDEV/JVMPRDEV/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
