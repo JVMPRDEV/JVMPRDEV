@@ -79,7 +79,7 @@ Jun 2020 – Abr 2023
 
 **Bacharelado em Ciência da Computação**  
 Universidade Salvador (UNIFACS)  
-2021 – Atual  
+2018 – 2021  
 
 ---
 
