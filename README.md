@@ -1,95 +1,94 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hello!+My+name+is+João+Victor+Rocha;I'm+from+Salvador,+BA,+Brazil;Senior+Full+Stack+Developer;Software+Architecture+Team+at+BRANEF;Welcome+to+my+GitHub!+:%29)](https://git.io/typing-svg)
-
-<br>
-
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=JVMPRDEV&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="João Rocha github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JVMPRDEV&layout=compact&hide_border=true&title_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" />
+<div align="right">
+  <a href="./README.en.md">
+    <img src="https://img.shields.io/badge/Read%20in-English-00bfbf?style=for-the-badge&logo=googletranslate&logoColor=white"/>
+  </a>
 </div>
 
-<br>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=150&section=header&text=Jo%C3%A3o%20Victor%20Rocha&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
-## 👨‍💻 About Me  
-- 🎯 Multidisciplinary professional with experience in **software architecture, scalable APIs, automation, and database management**.  
-- 🚀 Currently part of the **Architecture Team at BRANEF**, supporting squads in high-complexity scenarios and strategic deliveries.  
-- 💡 Passionate about **automation, cloud, monitoring, and scalable systems**.  
-- 🌍 Remote-first professional, based in **Salvador, Brazil**.  
+<div align="center">
 
----
+### Desenvolvedor Full Stack Sênior • Arquitetura de Software • Sistemas Distribuídos
 
-## 🛠️ Main Skills  
+Salvador, BA — Brasil  
+APIs Escaláveis • Event-Driven • Segurança • Cloud • Automação
 
-### **Back-end & APIs**  
-![.NET6](https://img.shields.io/badge/-.NET6-0D1117?style=for-the-badge&logo=dotnet&labelColor=0D1117)&nbsp;
-![.NET8](https://img.shields.io/badge/-.NET8-0D1117?style=for-the-badge&logo=dotnet&labelColor=0D1117)&nbsp;
-![ASP](https://img.shields.io/badge/-Classic_ASP-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
-![REST](https://img.shields.io/badge/-REST_API-0D1117?style=for-the-badge&logo=postman&labelColor=0D1117)&nbsp;
-![CQRS](https://img.shields.io/badge/-CQRS-0D1117?style=for-the-badge&logo=csharp&labelColor=0D1117)&nbsp;
-![DDD](https://img.shields.io/badge/-DDD-0D1117?style=for-the-badge&logo=csharp&labelColor=0D1117)&nbsp;
+<br/>
 
-### **Front-end & UI**  
-![React.js](https://img.shields.io/badge/-React-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
-![TypeScript](https://img.shields.io/badge/-TypeScript-0D1117?style=for-the-badge&logo=typescript&labelColor=0D1117)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
-![HTML5](https://img.shields.io/badge/-HTML5-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
-![CSS3](https://img.shields.io/badge/-CSS3-0D1117?style=for-the-badge&logo=css3&labelColor=0D1117)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)&nbsp;
+<a href="https://www.linkedin.com/in/jvmpr-dev/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-### **Data & Storage**  
-![SQLServer](https://img.shields.io/badge/-SQLServer-0D1117?style=for-the-badge&logo=microsoftsqlserver&labelColor=0D1117)&nbsp;
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&labelColor=0D1117)&nbsp;
-![Redis](https://img.shields.io/badge/-Redis-0D1117?style=for-the-badge&logo=redis&labelColor=0D1117)&nbsp;
-![Supabase](https://img.shields.io/badge/-Supabase-0D1117?style=for-the-badge&logo=supabase&labelColor=0D1117)&nbsp;
-![Dapper](https://img.shields.io/badge/-Dapper-0D1117?style=for-the-badge&logo=database&labelColor=0D1117)&nbsp;
-![NHibernate](https://img.shields.io/badge/-NHibernate-0D1117?style=for-the-badge&logo=hibernate&labelColor=0D1117)&nbsp;
-![EntityFramework](https://img.shields.io/badge/-Entity%20Framework-0D1117?style=for-the-badge&logo=dotnet&labelColor=0D1117)&nbsp;
-
-### **Cloud & DevOps**  
-![Docker](https://img.shields.io/badge/-Docker-0D1117?style=for-the-badge&logo=docker&labelColor=0D1117)&nbsp;
-![DockerCompose](https://img.shields.io/badge/-Docker%20Compose-0D1117?style=for-the-badge&logo=docker&labelColor=0D1117)&nbsp;
-![AWS](https://img.shields.io/badge/-AWS-0D1117?style=for-the-badge&logo=amazonaws&labelColor=0D1117)&nbsp;
-![DigitalOcean](https://img.shields.io/badge/-DigitalOcean-0D1117?style=for-the-badge&logo=digitalocean&labelColor=0D1117)&nbsp;
-![Coolify](https://img.shields.io/badge/-Coolify-0D1117?style=for-the-badge&logo=coolify&labelColor=0D1117)&nbsp;
-![GoogleCloud](https://img.shields.io/badge/-Google%20Cloud-0D1117?style=for-the-badge&logo=googlecloud&labelColor=0D1117)&nbsp;
-![Datadog](https://img.shields.io/badge/-Datadog-0D1117?style=for-the-badge&logo=datadog&labelColor=0D1117)&nbsp;
-
-### **Automation & Integrations**  
-![n8n](https://img.shields.io/badge/-n8n-0D1117?style=for-the-badge&logo=n8n&labelColor=0D1117)&nbsp;
-![EvolutionAPI](https://img.shields.io/badge/-Evolution_API-0D1117?style=for-the-badge&logo=whatsapp&labelColor=0D1117)&nbsp;
-![OpenAI](https://img.shields.io/badge/-OpenAI-0D1117?style=for-the-badge&logo=openai&labelColor=0D1117)&nbsp;
-![Discord](https://img.shields.io/badge/-Discord_API-0D1117?style=for-the-badge&logo=discord&labelColor=0D1117)&nbsp;
-
-### **Collaboration & Design**  
-![Figma](https://img.shields.io/badge/-Figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)&nbsp;
-![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
-![Jira](https://img.shields.io/badge/-Jira-0D1117?style=for-the-badge&logo=jira&labelColor=0D1117)&nbsp;
-![MSOffice](https://img.shields.io/badge/-MS%20Office-0D1117?style=for-the-badge&logo=microsoftoffice&labelColor=0D1117)&nbsp;
-
----
-
-## 📜 Certifications  
-- Agentes de IA com N8N na Prática – Rocketseat (2025)  
-- REST API’s RESTful do 0 à Azure com ASP.NET 8 e 5 – Udemy (2025)  
-- OKRs: Da Missão à Ação – Qulture.Rocks (2025)  
-- Certificação White Belt em Lean Seis Sigma – Grupo Voitto (2024)  
-- Ignite – Programa de Especialização em React – Rocketseat (2023)  
-- Workshop de UI Design e Figma – Deploy Experience (2022)  
-- Semana Front-End – DIO (2022)  
-- Curso de ASP .NET Core MVC (NET 6) – Udemy (2022)  
-- DEV Summit – IGTI (2021)  
-- QA Week – Bee Lab Academy (2021)  
-- Implementação de LGPD via Metodologia Ágil – Somaxi Group (2021)  
-- Lei Geral de Proteção de Dados (LGPD) – Sicoob Universidade (2020)  
-- Segurança e Privacidade em Computadores (Microsoft) – Softex (2019)  
-- Redes Remotas de Computadores – Softex (2019)  
-- Pacote Office – Unieducar (2019)
-
----
-
-<div align="center">  
-<a href="https://www.linkedin.com/in/jvmpr-dev/" target="_blank"><img src="https://img.shields.io/badge/-linkedin-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"</a>
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
+---
+
+## 👨‍💻 Sobre mim
+
+Profissional de tecnologia com forte atuação em **arquitetura e evolução de sistemas**, contribuindo na definição de padrões técnicos, organização estrutural e decisões estratégicas voltadas à **escalabilidade, segurança, resiliência e sustentabilidade**.
+
+Experiência sólida no desenvolvimento de **APIs e sistemas distribuídos**, com foco em:
+
+- Domain-Driven Design (DDD)  
+- CQRS e arquitetura orientada a eventos  
+- Escalabilidade horizontal  
+- Alta disponibilidade  
+- Processamento assíncrono  
+- Segurança e governança técnica  
+
+---
+
+## 💼 Experiência Profissional
+
+### 🧠 BRANEF Innovation & Technology  
+**Desenvolvedor Full Stack Sr. I — Time de Arquitetura**  
+Ago 2025 – Atual • Remoto  
+
+- Evolução de arquiteturas escaláveis, performáticas e seguras  
+- Padronização de guidelines técnicos  
+- Apoio estratégico a squads em cenários críticos  
+- Documentação arquitetural e definição de padrões  
+- Alinhamento entre soluções técnicas e estratégia do negócio  
+
+---
+
+### 🚗 Easy Carros  
+**Desenvolvedor Full Stack (Jr → Pleno)**  
+Abr 2023 – Ago 2025 • Remoto  
+
+- Desenvolvimento e evolução de APIs escaláveis  
+- Automação de processos internos  
+- Otimização de banco de dados  
+- Implementação de novas funcionalidades estratégicas  
+- Correção de falhas e melhoria da estabilidade  
+
+---
+
+### 🏦 Sicoob Cred Executivo  
+**Assistente de Tecnologia – Desenvolvimento**  
+Jun 2020 – Abr 2023  
+
+- Levantamento de requisitos  
+- Administração de plataforma corporativa  
+- Desenvolvimento de automações  
+- Melhorias contínuas nos sistemas  
+
+---
+
+## 🎓 Formação Acadêmica
+
+**Bacharelado em Ciência da Computação**  
+Universidade Salvador (UNIFACS)  
+2021 – Atual  
+
+---
+
+## 🌎 Idiomas
+
+- 🇧🇷 Português — Nativo  
+- 🇬🇧 Inglês — Intermediário  
+- 🇪🇸 Espanhol — Básico  
+
+---
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
