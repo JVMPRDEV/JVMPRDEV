@@ -1,6 +1,6 @@
 <div align="right">
   <a href="./README.md">
-    <img src="https://img.shields.io/badge/Ler%20em-Português-00bfbf?style=for-the-badge&logo=googletranslate&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Read%20in-Portuguese-00bfbf?style=for-the-badge&logo=googletranslate&logoColor=white"/>
   </a>
 </div>
 
@@ -10,7 +10,7 @@
 
 ### Senior Full Stack Developer • Software Architecture • Distributed Systems
 
-Salvador, Brazil  
+Salvador, BA — Brazil  
 Scalable APIs • Event-Driven • Security • Cloud • Automation
 
 <br/>
@@ -25,16 +25,16 @@ Scalable APIs • Event-Driven • Security • Cloud • Automation
 
 ## 👨‍💻 About Me
 
-Technology professional focused on **software architecture and system evolution**, contributing to technical standards and strategic decisions aimed at **scalability, security, resilience, and sustainability**.
+Technology professional strongly focused on **system architecture and evolution**, contributing to the definition of technical standards, structural organization, and strategic decisions aimed at **scalability, security, resilience, and sustainability**.
 
-Strong experience building **APIs and distributed systems**, with emphasis on:
+Solid experience in developing **APIs and distributed systems**, with emphasis on:
 
 - Domain-Driven Design (DDD)  
-- CQRS & Event-Driven Architecture  
+- CQRS and Event-Driven Architecture  
 - Horizontal scalability  
 - High availability  
 - Asynchronous processing  
-- Security hardening & governance  
+- Security and technical governance  
 
 ---
 
@@ -44,11 +44,11 @@ Strong experience building **APIs and distributed systems**, with emphasis on:
 **Senior Full Stack Developer I — Architecture Team**  
 Aug 2025 – Present • Remote  
 
-- Designing scalable and secure architectures  
-- Supporting squads in critical scenarios  
-- Defining technical standards  
-- Producing architectural documentation  
-- Aligning technical solutions with business strategy  
+- Evolution of scalable, high-performance, and secure architectures  
+- Standardization of technical guidelines  
+- Strategic support to squads in critical scenarios  
+- Architectural documentation and definition of standards  
+- Alignment between technical solutions and business strategy  
 
 ---
 
@@ -56,11 +56,11 @@ Aug 2025 – Present • Remote
 **Full Stack Developer (Junior → Mid-Level)**  
 Apr 2023 – Aug 2025 • Remote  
 
-- Development of scalable APIs  
-- Internal automation  
+- Development and evolution of scalable APIs  
+- Internal process automation  
 - Database optimization  
-- Feature implementation  
-- System stability improvements  
+- Implementation of strategic new features  
+- Bug fixes and system stability improvements  
 
 ---
 
@@ -69,8 +69,8 @@ Apr 2023 – Aug 2025 • Remote
 Jun 2020 – Apr 2023  
 
 - Requirements gathering  
-- Corporate platform management  
-- Workflow automation  
+- Corporate platform administration  
+- Automation development  
 - Continuous system improvements  
 
 ---
@@ -79,7 +79,7 @@ Jun 2020 – Apr 2023
 
 **Bachelor’s Degree in Computer Science**  
 Universidade Salvador (UNIFACS)  
-2018 – 2021   
+2018 – 2021  
 
 ---
 
