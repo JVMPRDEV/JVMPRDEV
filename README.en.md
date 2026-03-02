@@ -79,7 +79,7 @@ Jun 2020 – Apr 2023
 
 **Bachelor’s Degree in Computer Science**  
 Universidade Salvador (UNIFACS)  
-2021 – Present  
+2018 – 2021   
 
 ---
 
