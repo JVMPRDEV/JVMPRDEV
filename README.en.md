@@ -1,6 +1,6 @@
 <p align="right">
-  <a href="./README.en.md">
-    <img src="https://img.shields.io/badge/Read%20in-English-00bfbf?style=for-the-badge&logo=googletranslate&logoColor=white"/>
+  <a href="https://github.com/JVMPRDEV/JVMPRDEV/blob/main/README.md">
+    <img src="https://img.shields.io/badge/Read%20in-Portuguese-00bfbf?style=for-the-badge&logo=googletranslate&logoColor=white"/>
   </a>
 </p>
 
