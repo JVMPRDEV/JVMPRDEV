@@ -23,30 +23,36 @@ APIs Escaláveis • Event-Driven • Segurança • Cloud • Automação
 
 # 🚀 Sobre mim
 
-Profissional de tecnologia com forte atuação em **arquitetura e evolução de sistemas**, contribuindo na definição de padrões técnicos, organização estrutural e decisões estratégicas voltadas à **escalabilidade, segurança, resiliência e sustentabilidade**.
+Profissional de tecnologia com forte atuação em **arquitetura e evolução de sistemas**, trabalhando na definição de padrões técnicos, organização estrutural das aplicações e decisões estratégicas voltadas à **escalabilidade, segurança, resiliência e sustentabilidade das soluções**.
 
-Experiência sólida no desenvolvimento de **APIs e sistemas distribuídos**, com foco em:
+Atuo também como **Tech Lead em projetos de média e alta complexidade**, conduzindo tecnicamente times, apoiando decisões de arquitetura e promovendo boas práticas de engenharia para garantir **entregas consistentes e sustentáveis ao longo do tempo**.
 
-- Domain-Driven Design (DDD)  
-- CQRS e arquitetura orientada a eventos  
-- Escalabilidade horizontal  
-- Alta disponibilidade  
-- Processamento assíncrono  
-- Segurança e governança técnica  
+Tenho experiência no desenvolvimento de **APIs e sistemas distribuídos**, com foco em:
+
+- Domain-Driven Design (DDD)
+- CQRS e arquitetura orientada a eventos
+- Escalabilidade horizontal
+- Alta disponibilidade
+- Processamento assíncrono
+- Segurança e governança técnica
+
+Além do desenvolvimento, contribuo com **code reviews, definição de diretrizes técnicas, padronização entre squads e implementação de mecanismos de segurança, observabilidade e governança**, sempre conectando decisões de engenharia aos objetivos do negócio.
 
 ---
 
 # 💼 Experiência Profissional
 
-## 🧠 BRANEF Innovation & Technology  
-**Desenvolvedor Full Stack Sr. I — Time de Arquitetura**  
+## 🧠 BRANEF Innovation & Technology
+**Desenvolvedor Full Stack Sr. I • Tech Lead • Time de Arquitetura**  
 Ago 2025 – Atual • Remoto  
 
-- Evolução de arquiteturas escaláveis, performáticas e seguras  
-- Padronização de guidelines técnicos  
-- Apoio estratégico a squads em cenários críticos  
-- Documentação arquitetural e definição de padrões  
-- Alinhamento entre soluções técnicas e estratégia do negócio  
+- Atuação no **time de Arquitetura de Software**, apoiando squads em cenários de alta complexidade e decisões críticas
+- Atuação como **Tech Lead em iniciativas estratégicas**, conduzindo tecnicamente o time durante o ciclo de desenvolvimento
+- Evolução de **arquiteturas escaláveis, performáticas e seguras**
+- Definição e padronização de **guidelines técnicos e boas práticas de engenharia**
+- Apoio estratégico a squads na resolução de problemas técnicos complexos
+- Documentação arquitetural e definição de padrões estruturais do sistema
+- Alinhamento entre **decisões técnicas e objetivos estratégicos do negócio**
 
 ---
 
