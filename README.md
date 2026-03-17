@@ -10,8 +10,8 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jvmpr-dev/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jvmpr.dev@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/JVMPRDEV/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:JVMPRDEV.dev@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/(71)_99159--1476-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5571991591476)
 
 <br/>
@@ -185,9 +185,9 @@ Universidade Salvador — 2021
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jvmpr-dev&show_icons=true&theme=dark&bg_color=0d1117&border_color=30363d&title_color=c8f542&icon_color=c8f542&text_color=8b949e&hide_border=false&rank_icon=github&include_all_commits=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JVMPRDEV&show_icons=true&theme=dark&bg_color=0d1117&border_color=30363d&title_color=c8f542&icon_color=c8f542&text_color=8b949e&hide_border=false&rank_icon=github&include_all_commits=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jvmpr-dev&layout=compact&theme=dark&bg_color=0d1117&border_color=30363d&title_color=c8f542&text_color=8b949e)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JVMPRDEV&layout=compact&theme=dark&bg_color=0d1117&border_color=30363d&title_color=c8f542&text_color=8b949e)
 
 </div>
 
