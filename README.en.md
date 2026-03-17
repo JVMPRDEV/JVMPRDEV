@@ -8,7 +8,7 @@
 
 # 👨‍💻 João Victor Rocha  
 
-### Senior Full Stack Developer • Software Architecture • Distributed Systems  
+### Senior Full Stack Developer • Tech Lead • Software Architecture • Distributed Systems  
 
 📍 Salvador, BA — Brazil  
 Scalable APIs • Event-Driven • Security • Cloud • Automation  
@@ -23,9 +23,11 @@ Scalable APIs • Event-Driven • Security • Cloud • Automation
 
 # 🚀 About Me
 
-Technology professional with strong expertise in **system architecture and evolution**, contributing to technical standards definition, structural organization, and strategic decisions focused on **scalability, security, resilience, and sustainability**.
+Technology professional with strong expertise in **system architecture and evolution**, working on technical standards definition, structural organization, and strategic decisions focused on **scalability, security, resilience, and sustainability of solutions**.
 
-Solid experience in developing **APIs and distributed systems**, with emphasis on:
+I also act as a **Tech Lead in medium and high complexity projects**, guiding teams technically, supporting architectural decisions, and promoting engineering best practices to ensure **consistent and sustainable deliveries over time**.
+
+Solid experience in developing **APIs and distributed systems**, with focus on:
 
 - Domain-Driven Design (DDD)  
 - CQRS and Event-Driven Architecture  
@@ -34,19 +36,23 @@ Solid experience in developing **APIs and distributed systems**, with emphasis o
 - Asynchronous processing  
 - Security and technical governance  
 
+Beyond development, I contribute to **code reviews, technical guidelines definition, cross-team standardization, and implementation of security, observability, and governance practices**, always aligning engineering decisions with business goals.
+
 ---
 
 # 💼 Professional Experience
 
 ## 🧠 BRANEF Innovation & Technology  
-**Senior Full Stack Developer I — Architecture Team**  
+**Senior Full Stack Developer I • Tech Lead • Architecture Team**  
 Aug 2025 – Present • Remote  
 
-- Evolution of scalable, high-performance, and secure architectures  
-- Standardization of technical guidelines  
-- Strategic support to squads in critical scenarios  
-- Architectural documentation and standards definition  
-- Alignment between technical solutions and business strategy  
+- Acting within the **Software Architecture team**, supporting squads in high-complexity scenarios and critical decision-making  
+- Acting as **Tech Lead in strategic initiatives**, leading teams throughout the full development lifecycle  
+- Evolution of **scalable, high-performance, and secure architectures**  
+- Definition and standardization of **technical guidelines and engineering best practices**  
+- Strategic support to squads in solving complex technical challenges  
+- Architectural documentation and structural standards definition  
+- Ensuring alignment between **technical decisions and business strategy**  
 
 ---
 
@@ -58,7 +64,7 @@ Apr 2023 – Aug 2025 • Remote
 - Internal process automation  
 - Database optimization  
 - Implementation of strategic new features  
-- Bug fixes and system stability improvements  
+- Bug fixing and system stability improvements  
 
 ---
 
